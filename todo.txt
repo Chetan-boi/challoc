@@ -1,0 +1,6 @@
+1. If there are two blocks of  5 adjacent to each other then merge them
+2. implement segfault
+3. resize already existing, zero-initialise (calloc) and memcopy
+4. remove the pointers[50] array
+5. Implement GC
+6. Add OS Syscall (remove char heap[64000])
